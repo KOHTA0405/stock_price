@@ -5,6 +5,7 @@ ipython
 jupyterlab
 mplfinance
 numpy
+openpyxl
 pandas
 scikit-learn
 scipy
