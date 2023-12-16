@@ -1,0 +1,12 @@
+autopep8
+black
+flake8
+ipython
+jupyterlab
+mplfinance
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+yfinance
