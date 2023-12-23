@@ -7,7 +7,10 @@ mplfinance
 numpy
 openpyxl
 pandas
+plotly
+prophet
 scikit-learn
 scipy
 seaborn
+TA-Lib
 yfinance
