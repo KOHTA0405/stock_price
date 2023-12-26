@@ -1,4 +1,5 @@
 autopep8
+backtesting
 black
 flake8
 ipython
