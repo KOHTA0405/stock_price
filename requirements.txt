@@ -13,5 +13,6 @@ prophet
 scikit-learn
 scipy
 seaborn
+statsmodels
 TA-Lib
 yfinance
