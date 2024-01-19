@@ -161,3 +161,5 @@ cython_debug/
 .DS_Store
 .python-version
 data/
+SmaCross.html
+SmaCross(ns=5,nl=40).html
